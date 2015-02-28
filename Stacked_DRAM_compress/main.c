@@ -98,6 +98,7 @@ int main(int argc, char * argv[])
      }
 
 
+
      /* The addresses in each trace are given a prefix that equals
         their core ID.  If the input trace starts with "MT", it is
 	assumed to be part of a multi-threaded app.  The addresses
